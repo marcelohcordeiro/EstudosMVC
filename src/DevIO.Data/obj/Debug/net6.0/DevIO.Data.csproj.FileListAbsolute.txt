@@ -1,0 +1,17 @@
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.deps.json
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.runtimeconfig.json
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.dll
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Data.pdb
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.dll
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\net6.0\DevIO.Business.pdb
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.AssemblyReference.cache
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfoInputs.cache
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.AssemblyInfo.cs
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CoreCompileInputs.cache
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.csproj.CopyComplete
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.dll
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\refint\DevIO.Data.dll
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.pdb
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\DevIO.Data.genruntimeconfig.cache
+E:\Documentos\Curso\Desenvolvedor IO ASPNET Core\2 - Dominando o ASPNET MVC Core\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\net6.0\ref\DevIO.Data.dll
